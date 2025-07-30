@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LifeSync Backend API
 
 A comprehensive REST API for the LifeSync life management application.
@@ -301,3 +302,7 @@ npm start
 ## 📝 License
 
 This project is licensed under the MIT License. 
+=======
+# lifeos
+backend project
+>>>>>>> a205f449134266c095684506444f48ec2d6f7963

@@ -6,7 +6,6 @@ A comprehensive REST API for the LifeSync life management application.
 ## 🚀 Features
 
 - **Authentication**: JWT-based user authentication
-- **Pillars**: Life pillars management (Health, Career, Relationships, etc.)
 - **Goals**: Goal setting and tracking
 - **Objectives**: Specific objectives linked to goals
 - **Projects**: Project management with tasks
